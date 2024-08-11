@@ -1,2 +1,2 @@
 # HSS-SLAM
-Accepted by IROS 2024
+【IROS 2024】HSS-SLAM: Human-in-the-Loop Semantic SLAM Represented by Superquadrics
